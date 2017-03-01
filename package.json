@@ -1,14 +1,12 @@
 {
   "name": "language-flave",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Syntax Highlighting for Flave",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": "https://github.com/varubi/language-flave.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
