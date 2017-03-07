@@ -1,5 +1,5 @@
 'name': 'Flave'
-'scopeName':'text.flave'
+'scopeName':'source.flave'
 'fileTypes': [ 'flave']
 'patterns': [
     {
