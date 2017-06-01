@@ -1,4 +1,4 @@
-'atom-text-editor[data-grammar="text flave"]:not([mini])':
+'atom-text-editor[data-grammar="source flave"]:not([mini])':
     'tab': 'emmet:expand-abbreviation-with-tab'
 '.pane .editor:not(.mini)':
     'tab': 'snippets:expand'
